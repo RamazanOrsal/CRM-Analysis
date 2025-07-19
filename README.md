@@ -47,7 +47,7 @@ Dieses Power BI-Projekt analysiert Kundenabwanderung (Churn) anhand von CRM-Date
 
 ### 🌐 Übersicht (KPI & Trends)
 
-![Exec Dashboard](Crm Analysis/Overview_Page.jpg)
+![Overview Dashboard](CRM Analysis/Overview_Page.jpg)
 
 ### 🌍 Geografische Analyse
 
