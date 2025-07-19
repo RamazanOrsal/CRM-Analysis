@@ -43,6 +43,26 @@ Dieses Power BI-Projekt analysiert Kundenabwanderung (Churn) anhand von CRM-Date
 - `dashboard_screenshots/` – Screenshots der vier Berichtseiten  
 
 
+## 📷 Screenshots
+
+### 🌐 Übersicht (KPI & Trends)
+
+![Exec Dashboard](Crm Analysis/Overview_Page.jpg)
+
+### 🌍 Geografische Analyse
+
+![Map View](ScreenShots/Map.png)
+
+### 🧮 Produktanalyse mit What-if
+
+![Produkt Detail](ScreenS/Product_Detail.png)
+
+### 👥 Kundenanalyse
+
+![Customer Detail](ScreenShots/Customer_Detail.png)
+
+
+
 ## 📌 Hinweis:
 Dieses Dashboard eignet sich zur Entwicklung gezielter Kundenbindungsstrategien und zur datenbasierten Entscheidungsunterstützung im Bereich Kundenmanagement.
 
