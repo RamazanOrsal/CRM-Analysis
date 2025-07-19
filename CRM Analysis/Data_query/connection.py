@@ -5,7 +5,7 @@ import daten_aufteilen as data
 server = 'ramazanorsalsql.database.windows.net' 
 database = 'crmdb'                 
 username = 'ramazanorsaladmin'           
-password = 'R.322655'                
+password = '********'                
 
 
 # Bağlantı stringi oluştur
@@ -31,4 +31,4 @@ data.df_referralLoyalty.to_sql('referralLoyalytyLookup', engine, if_exists='repl
 data.df_servicesSubscribed.to_sql('ServicesSubscribedLookup', engine, if_exists='replace', index=False)
 data.df_financials.to_sql('FinancialLookup', engine, if_exists='replace', index=False)
 
-print("✅ Veri Azure SQL'e gönderildi.")
+print("✅ The Data has been sent Azure SQL.")
