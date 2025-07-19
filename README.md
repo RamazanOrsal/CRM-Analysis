@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="churn grey" src="https://github.com/user-attachments/assets/e5ddfc72-55f2-4a0b-a4ad-82488854295e" /># CRM Analyse Dashboard – Power BI
+# CRM Analyse Dashboard – Power BI
 
 Dieses Power BI-Projekt analysiert Kundenabwanderung (Churn) anhand von CRM-Daten und liefert wertvolle Einblicke in Overview, Churn-Rate und CLTV-Segmente.
 
@@ -61,7 +61,7 @@ Dieses Power BI-Projekt analysiert Kundenabwanderung (Churn) anhand von CRM-Date
 
 ### 💡 Churn Grunde Tooltip
 
-![Churn Analyse](CRM_Analysis/ChurnReasonTooltip_Page.jpg)
+![Churn Analyse](CRM_Analysis/ChurnReasonTooltip_Page.png)
 
 
 ## 📌 Hinweis:
